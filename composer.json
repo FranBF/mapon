@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mapon-com/client-api-php-sdk": "^1.0",
+        "phpunit/phpunit": "^9.5"
+    }
+}
